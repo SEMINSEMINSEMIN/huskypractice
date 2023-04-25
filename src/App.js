@@ -10,9 +10,10 @@
 
 function a() {
     const semin = "semin";
-    const alex = "alex"
+    const alex = "alex";
 }
 
 function b() {
     const cat = "meow";
+    console.log("에러에러");
 }
