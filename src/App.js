@@ -10,7 +10,7 @@
 
 function a() {
     const semin = "semin";
-    const alex = "alex"
+    const alex = "alex";
 }
 
 function b() {
