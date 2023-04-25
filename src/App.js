@@ -14,5 +14,5 @@ function a() {
 }
 
 function b() {
-    const cat = "meow";
+    const cat = "meow"
 }
