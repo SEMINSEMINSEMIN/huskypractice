@@ -13,7 +13,7 @@
     },
     "scripts": {
         "postinstall": "husky install",
-        "format": "prettier --cache --write . && git add . && git commit -m \"Style: Prettier applied\"",
+        "format": "prettier --cache --write .",
         "lint": "eslint --cache .",
         "start": "react-scripts start",
         "build": "react-scripts build",
