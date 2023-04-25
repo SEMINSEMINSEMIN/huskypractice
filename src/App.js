@@ -15,5 +15,5 @@ function a() {
 
 function b() {
     const cat = "meow";
-    // console.log("reset --mixed");
+    // console.log("이번에는 amend 이용해보기");
 }
