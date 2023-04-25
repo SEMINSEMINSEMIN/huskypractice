@@ -15,5 +15,5 @@ function a() {
 
 function b() {
     const cat = "meow";
-    // console.log("에러에러");
+    // console.log("reset --mixed");
 }
